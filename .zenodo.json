@@ -24,9 +24,16 @@
       "interactive-architecture",
       "structural-computation"
     ],
+    
     "language": "kor-eng",
     "notes": "본 리포지터리는 한국어-영어 병기 문서로 구성되어 있으며, 실험 코드와 시각 자료는 별도 저장소에서 연동됩니다. / This repository contains bilingual (Korean-English) documents. Experimental code and visual materials are linked separately.",
-    "related_identifiers": [],
+    "related_identifiers": [
+    {
+      "relation": "isPartOf",
+      "identifier": "10.5281/zenodo.15254815", 
+      "scheme": "doi"
+    }
+  ],
     "communities": [
       {
         "identifier": "ai"

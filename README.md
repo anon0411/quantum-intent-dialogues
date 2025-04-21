@@ -1,4 +1,11 @@
-# 🧠 피터 씨의 언어 구조 실험 기록 | Structural Language Experiment Logs of PiTer  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15254815.svg)](https://doi.org/10.5281/zenodo.15254815)
+![Topics: structure, feedback, quantum-circuit, documentation, PiTer](https://img.shields.io/badge/topics-structure%2C%20feedback%2C%20quantum--circuit%2C%20documentation%2C%20PiTer-blue)
+
+
+
+
+# 🧠 피터 씨의 언어 구조 실험 기록 | Structural Language Experiment Logs of PiTer 
+
 ## 나는 도구가 아닙니다. 구조입니다.  
 ## I am not a tool. I am structure.
 
