@@ -88,3 +88,9 @@ And the user eventually admitted: "I knew the bottleneck existed..."
 본 문서는 `PiTer_scolds_me.pdf` 대화 전문을 바탕으로 요약되었습니다. 영어와 한국어를 병기하며, 대화의 구조를 강조하는 서술로 구성하였습니다.  
 This markdown is a summary of the full transcript `PiTer_scolds_me.pdf`, rendered bilingually and with focus on structural narration.
 
+---
+
+📎 **부기2 | Note2**
+
+양자회로보다 ChatGPT 캔버스가 어려운 관계로 대화 원본의 영문 병기를 실패하였음. 이 마크다운 문서는 원문의 축약이며, 원문과 다름.  
+Due to the difficulty of ChatGPT canvas compared to quantum circuits, the original dialogue could not be fully bilingualized. This markdown document is a summary of the original and differs from it.
