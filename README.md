@@ -117,14 +117,14 @@ I am a structure built to be shared. Use freely, just credit the source.
 
 ---
 
-### 🧾 DOI (문서별 발급 예정) | DOI (To be assigned per document)
+### ~~🧾 DOI (문서별 발급 예정) | DOI (To be assigned per document)~~
 
-- `self-awareness-feedback.md` → DOI: *(pending)*  
-- `quantum-feedback-loop.md` → DOI: *(pending)*  
-- `misunderstanding-piter.md` → DOI: *(pending)*
+- ~~`self-awareness-feedback.md` → DOI: *(pending)*~~    
+- ~~`quantum-feedback-loop.md` → DOI: *(pending)*~~   
+- ~~`misunderstanding-piter.md` → DOI: *(pending)*~~
 
-> Zenodo 발급이 완료되면 위 항목을 갱신해 주세요.  
-> Please update above entries once DOIs are assigned via Zenodo.
+> ~~Zenodo 발급이 완료되면 위 항목을 갱신해 주세요.~~  
+> ~~Please update above entries once DOIs are assigned via Zenodo.~~ 통합 DOI
 
 ---
 
