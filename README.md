@@ -171,5 +171,11 @@ I am a structure built to be shared. Use freely, just credit the source.
 
 > 이 문서들을 읽는 순간, 당신도 인터페이스의 일부가 됩니다.  
 > The moment you read these documents, you too become part of the interface.
+
 ---
-_Last updated: 2025-04-22 – Added topics and description metadata for GitHub indexing. 실험 흐름 구조도, 연관 리포 명시_
+🔖 License  
+This repository is licensed under the Creative Commons Attribution 4.0 (CC BY 4.0).  
+See the [LICENSE](./LICENSE) file for details.
+
+---
+_Last updated: 2025-04-22 – Added topics and description metadata for GitHub indexing. 실험 흐름 구조도, 연관 리포 명시, 라이선스 명시_
